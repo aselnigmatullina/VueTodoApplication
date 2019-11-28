@@ -1,0 +1,18 @@
+body{
+	background: pink;
+}
+
+.container{
+	margin-top: 50px;
+	border: 2px solid #ccc;
+	background: #ccc;
+	border-radius: 20px;
+
+}
+
+
+.todoDone {
+	text-decoration: line-through;
+	font-style: italic;
+	color: gray;
+}
